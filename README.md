@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-srija-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/insrija-kathi-ba08887a/)](https://www.linkedin.com/in/srija-kathi-ba08887a/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-srija-yellow)](https://stackoverflow.com/users/21886286/srija-developer)
 
-I'm
+I'm very eagerly waiting to be as
 Full Stack Solution Architect
 The crossover between design and programming has always been of interest to me. I have a wide range of interest in learning skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql).
 
